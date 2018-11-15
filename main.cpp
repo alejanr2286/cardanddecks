@@ -15,6 +15,10 @@ description:
 
 int main()
 {
-  
+  vector<Card> m_hand;
+  public:
+  Deck();
+  void shuffle();
+  vector<hand> deal(int _amount);
   return 0;
 }
