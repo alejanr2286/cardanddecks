@@ -11,3 +11,18 @@ description:
 #include <iostream>
 #include <string>
 #include <vector>
+
+Deck::Deck()
+{
+
+}
+
+void Deck::shuffle()
+{
+ 
+}
+
+vector<Card> Deck::deal(int _amount)
+{
+
+}
